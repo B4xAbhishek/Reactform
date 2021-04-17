@@ -1,0 +1,17 @@
+*{
+background-color: #F3F6F9;  
+margin: 0px;
+padding:0px;
+box-sizing: border-box; 
+}
+
+.App {
+display:block;
+height: 100%;
+padding: 1rem;
+}
+
+.App-link {
+  color: #61dafb;
+}
+

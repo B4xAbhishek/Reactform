@@ -1,0 +1,10 @@
+
+@import url(https://fonts.googleapis.com/css?family=Lato:400,700,900,300);
+@import url(http://weloveiconfonts.com/api/?family=fontawesome);
+
+input[type="text"] {
+    height: 47px;
+    font-size: 18px;
+    margin:3px;
+    font-family: "Lato";
+  }
